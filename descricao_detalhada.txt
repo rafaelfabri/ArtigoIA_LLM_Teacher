@@ -1,0 +1,15 @@
+campo nu_inscricao  tipo int é o número da inscrição do aluno; 
+
+campo nu_nota_cn é a Nota da prova de Ciências da Natureza com uma escala de 100 a 1.000 pontos;
+
+campo nu_nota_ch é a Nota da prova de Ciências Humanas com uma escala de 100 a 1.000 pontos;
+                
+campo nu_nota_lc é a Nota da prova de Linguagens e Códigos com uma escala de 100 a 1.000 pontos 
+    Competência de área 1 nu_nota_lc - Aplicar as tecnologias da comunicação e da informação na escola, no trabalho e em outros contextos relevantes para sua vida.
+    Competência de área 2 nu_nota_lc - Conhecer e usar língua(s) estrangeira(s) moderna(s) como instrumento de acesso a informações e a outras culturas e grupos sociais*.
+    Competência de área 3 nu_nota_lc - Compreender e usar a linguagem corporal como relevante para a própria vida, integradora social e formadora da identidade.
+                
+campo nu_nota_mt é a Nota da Nota da prova de Matemática com uma escala de 100 a 1.000 pontos 
+    Competência de área 1 nu_nota_mt - Construir significados para os números naturais, inteiros, racionais e reais.
+    Competência de área 2 nu_nota_mt - Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela
+    Competência de área 3 - Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano;
