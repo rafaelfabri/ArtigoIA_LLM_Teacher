@@ -1,0 +1,1940 @@
+numero_inscricao,query,requisicao,recomendacao_llm
+210061103945,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210061103945;
+",Sucesso,"Caro aluno,
+
+Parabéns pelo seu desempenho na redação do Enem, onde você obteve uma nota total de 700 pontos. Vamos analisar suas notas em cada competência e oferecer sugestões específicas para que você possa melhorar no próximo ano.
+
+### Análise do Desempenho
+
+1. **Competência 1: Domínio da modalidade escrita formal da Língua Portuguesa**
+   - **Nota:** 140 pontos (Bom domínio)
+   - **Análise:** Você demonstra um bom domínio da escrita formal, mas ainda apresenta alguns desvios gramaticais. 
+   - **Sugestões de Melhoria:**
+     - Pratique a leitura e a escrita de diferentes gêneros textuais. 
+     - Revise e estude as regras gramaticais e de pontuação, focando em aspectos que você considera mais desafiadores.
+     - Considere participar de grupos de escrita ou workshops que possam ajudar a aprimorar seu estilo.
+
+2. **Competência 2: Compreensão e desenvolvimento do tema**
+   - **Nota:** 200 pontos (Excelente domínio)
+   - **Análise:** Você teve um desempenho excepcional nesta competência, desenvolvendo o tema de maneira muito consistente.
+   - **Sugestões de Melhoria:**
+     - Continue explorando diversos temas e leituras que possam enriquecer seu repertório sociocultural.
+     - Mantenha a prática de argumentação, buscando sempre evidências e exemplos que sustentem suas ideias.
+
+3. **Competência 3: Seleção e organização de informações**
+   - **Nota:** 100 pontos (Domínio mediano)
+   - **Análise:** Sua apresentação de informações e argumentos foi limitada, possivelmente dependendo muito dos textos motivadores.
+   - **Sugestões de Melhoria:**
+     - Trabalhe na construção de argumentos próprios, evitando a dependência de fontes externas.
+     - Estude técnicas de organização de ideias, como mapas mentais ou esquemas de argumentação, que podem ajudar a estruturar melhor seus textos.
+
+4. **Competência 4: Articulação e coesão do texto**
+   - **Nota:** 120 pontos (Domínio mediano)
+   - **Análise:** Sua articulação das partes do texto foi razoável, mas há espaço para melhorar a coesão.
+   - **Sugestões de Melhoria:**
+     - Pratique o uso de conectivos e transições entre parágrafos para melhorar o fluxo do texto.
+     - Leia seus textos em voz alta para identificar onde a coesão pode ser aprimorada.
+
+5. **Competência 5: Proposta de intervenção**
+   - **Nota:** 140 pontos (Bom domínio)
+   - **Análise:** Você apresentou uma proposta de intervenção adequada, mas que pode ser mais detalhada.
+   - **Sugestões de Melhoria:**
+     - Ao elaborar suas propostas, pense em detalhes práticos e ações que poderiam ser implementadas.
+     - Relacione sua proposta diretamente com os argumentos apresentados no texto, assegurando que ela seja uma extensão lógica da discussão.
+
+### Considerações Finais
+
+Para melhorar sua nota na redação do próximo ano, é fundamental focar nas competências onde você teve um desempenho mais baixo, especialmente na Competência 3 (organização de informações) e Competência 4 (articulação e coesão). Considere fazer exercícios de escrita regular e buscar feedback sobre seus textos."
+210060214087,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210060214087;
+",Sucesso,"Caro aluno,
+
+Parabéns pelo seu desempenho na redação do Enem! Você obteve uma nota total de 880 pontos, com um desempenho variado nas competências. Vamos analisar cada competência e sugerir formas de melhora para o próximo ano.
+
+### Análise do Desempenho
+
+1. **Competência 1 (Domínio da Língua Portuguesa) - Nota: 140**
+   - Você demonstra um bom domínio da modalidade escrita formal da língua portuguesa, mas ainda há espaço para melhorias. É fundamental prestar atenção a eventuais desvios gramaticais e nas convenções da escrita.
+   - **Sugestões de Melhoria:** 
+     - Pratique a leitura e a escrita de textos dissertativos para familiarizar-se com a norma padrão da língua. 
+     - Revise as regras gramaticais e faça exercícios focados nas dificuldades que você identifica em sua escrita, como concordância, regência e pontuação.
+     - Considere fazer um curso de redação ou participar de grupos de estudo que foquem na prática da escrita formal.
+
+2. **Competência 2 (Desenvolvimento do Tema) - Nota: 200**
+   - Excelente trabalho! Você desenvolveu o tema com argumentação consistente e apresentou um repertório sociocultural produtivo.
+   - **Sugestões de Melhoria:** 
+     - Continue a diversificar suas leituras, buscando textos de diferentes áreas do conhecimento, para enriquecer ainda mais sua capacidade de argumentação.
+
+3. **Competência 3 (Organização e Interpretação de Informações) - Nota: 160**
+   - Sua apresentação de informações e argumentos está boa, mas pode ser aprimorada em termos de organização e autoria.
+   - **Sugestões de Melhoria:** 
+     - Ao elaborar seus textos, faça um esboço ou mapa mental antes de começar a escrever, para garantir que suas ideias estejam bem organizadas.
+     - Tente incluir mais de sua própria análise e opiniões, evitando se apegar apenas aos textos motivadores.
+
+4. **Competência 4 (Coesão e Coerência) - Nota: 180**
+   - Você apresentou um bom repertório de recursos coesivos, permitindo uma articulação eficaz das partes do texto.
+   - **Sugestões de Melhoria:** 
+     - Continue a praticar a utilização de conectivos e outros recursos coesivos, mas busque diversificar ainda mais suas articulações para evitar repetições.
+
+5. **Competência 5 (Proposta de Intervenção) - Nota: 200**
+   - Excelente! Sua proposta de intervenção foi bem elaborada, detalhada e articulada ao tema.
+   - **Sugestões de Melhoria:** 
+     - Para aprimorar ainda mais, pense em diferentes perspectivas sobre como sua proposta pode ser implementada e os possíveis desafios que podem surgir.
+
+### Considerações Finais
+Para melhorar sua nota, foque em desenvolver um domínio ainda maior da norma padrão da língua, organizando melhor suas ideias e garantindo que sua voz autoral se destaque nas argumentações. A prática constante da escrita, a leitura diversificada e a revisão de conceitos gramaticais são fundamentais para seu progresso.
+
+Continue se dedicando, e com certeza você poderá alcançar uma nota ainda mais alta no próximo Enem!
+
+Atenciosamente,
+[Seu Professor]"
+210059980948,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059980948;
+",Sucesso,"Caro aluno,
+
+Parabéns pela sua participação no Enem! Vamos analisar seu desempenho na redação e sugerir formas de melhorar nas competências que você apresentou.
+
+### Desempenho na Redação
+Você obteve as seguintes notas em cada competência:
+
+- **Competência 1 (Domínio da Língua Portuguesa)**: **120 pontos** - Você demonstra um domínio mediano da modalidade escrita formal da Língua Portuguesa, com alguns desvios gramaticais e de convenções da escrita.
+  
+- **Competência 2 (Compreensão da proposta e desenvolvimento do tema)**: **120 pontos** - Sua argumentação é previsível e o domínio do texto dissertativo-argumentativo é mediano.
+  
+- **Competência 3 (Organização e interpretação de informações)**: **120 pontos** - Você apresentou informações e opiniões relacionadas ao tema, mas limitadas e pouco organizadas.
+  
+- **Competência 4 (Mecanismos linguísticos para argumentação)**: **120 pontos** - A articulação das partes do texto é mediana, com algumas inadequações e repertório pouco diversificado.
+  
+- **Competência 5 (Proposta de intervenção)**: **80 pontos** - Sua proposta de intervenção é insuficiente e não está bem articulada com a discussão do texto.
+
+### Total: **560 pontos**
+
+### Recomendações para Melhoria
+
+1. **Competência 1 (Língua Portuguesa)**:
+   - **Sugestão**: Pratique a escrita de textos variados (narrativos, dissertativos, etc.) e revise-os em busca de erros gramaticais. Utilize recursos como corretores online ou peça a alguém para revisar seus textos.
+   - **Exemplo**: Ao revisar sua redação, preste atenção aos tempos verbais, concordância, pontuação e ortografia. 
+
+2. **Competência 2 (Desenvolvimento do Tema)**:
+   - **Sugestão**: Estude a estrutura do texto dissertativo-argumentativo. Pratique sempre que possível elaborar uma tese clara e sustentar sua argumentação com dados e exemplos. Amplie seu repertório cultural e social para enriquecer suas argumentações.
+   - **Exemplo**: Pesquise sobre temas atuais e desenvolva textos a partir de diferentes perspectivas, utilizando dados concretos ou referências culturais.
+
+3. **Competência 3 (Organização de Informações)**:
+   - **Sugestão**: Trabalhe na estrutura do seu texto. Comece por esboçar um plano com introdução, desenvolvimento e conclusão. Certifique-se de que cada parágrafo tenha uma ideia central que se conecte ao tema.
+   - **Exemplo**: Use mapas mentais ou esquemas para organizar suas ideias antes de começar a escrever.
+
+4. **Competência 4 (Mecanismos Linguísticos)**:
+   - **Sugestão**: Aprofunde-se em coesão e coerência textual. Leia textos bem estruturados e observe como os autores conectam as ideias, utilizando conectivos e outros recursos linguísticos.
+   - **Exemplo**: Pratique o uso de palavras e expressões que ajudam a articular melhor as partes do texto, como ""além disso"", ""por outro lado"", ""consequentemente"".
+
+5. **Competência 5 (Proposta de Intervenção)**:
+   - **Sugestão**: Aprenda"
+210060801601,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060801601;
+",Sucesso,"Caro aluno, 
+
+Parabéns pelo seu desempenho na redação do Enem! Sua nota final foi 600, e suas notas em cada competência foram todas 120 pontos. Isso indica que você apresentou um domínio mediano das habilidades esperadas na redação dissertativa-argumentativa. A seguir, vou resumir as competências e sugerir formas de melhorar em cada uma delas.
+
+### Resumo das Competências:
+
+1. **Competência 1:** Domínio da modalidade escrita formal da Língua Portuguesa.
+   - **Nota 120:** Você demonstra domínio mediano, mas há alguns desvios gramaticais e de convenções da escrita.
+   - **Sugestões de melhoria:** Estude as regras gramaticais, pratique a escrita revisando seus textos e utilize ferramentas de correção gramatical. Ler mais pode ajudar a internalizar estruturas corretas e ampliar seu vocabulário.
+
+2. **Competência 2:** Compreensão e desenvolvimento do tema.
+   - **Nota 120:** Você desenvolve o tema de forma previsível e apresenta domínio mediano do texto dissertativo-argumentativo.
+   - **Sugestões de melhoria:** Amplie seu repertório cultural, leia textos diversos e estude temas atuais para enriquecer sua argumentação. Pratique a elaboração de teses e argumentações claras e coerentes.
+
+3. **Competência 3:** Seleção e organização de informações e argumentos.
+   - **Nota 120:** Apresenta informações limitadas e pouco organizadas, muitas vezes dependentes dos textos motivadores.
+   - **Sugestões de melhoria:** Trabalhe em sua capacidade de sintetizar e organizar informações. Pratique a construção de mapas mentais para estruturar suas ideias antes de escrever. Tente relacionar mais suas opiniões pessoais com dados e informações externas.
+
+4. **Competência 4:** Uso de mecanismos linguísticos para argumentação.
+   - **Nota 120:** Articula as partes do texto de forma mediana, com algumas inadequações.
+   - **Sugestões de melhoria:** Estude e utilize conectivos variados para melhorar a coesão do texto. Pratique a construção de parágrafos de forma que cada um tenha uma ideia central bem desenvolvida e que se conecte logicamente ao próximo.
+
+5. **Competência 5:** Proposta de intervenção respeitando os direitos humanos.
+   - **Nota 120:** Sua proposta de intervenção é mediana, relacionada ao tema, mas pode ser mais bem articulada.
+   - **Sugestões de melhoria:** Pratique a elaboração de propostas de intervenção que sejam detalhadas e viáveis. Estude exemplos de propostas eficazes e busque entender como elas se relacionam com o tema discutido.
+
+### Dicas Gerais:
+- **Prática Regular:** Escreva redações regularmente, revise-as e busque feedback.
+- **Leitura:** Leia obras de diferentes gêneros e autores para ampliar sua visão crítica e seu vocabulário.
+- **Estudo de Estruturas:** Familiarize-se com a estrutura da redação dissertativa-argumentativa e treine a organização lógica dos seus textos.
+- **Simulados:** Realize simulados para se familiarizar com o tempo de prova e com a pressão do exame.
+
+Espero que essas sugestões ajudem você a melhorar seu desempenho na redação do próximo Enem. Continue se esforçando e dedicando tempo para a prática, e você"
+210059085130,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059085130;
+",Sucesso,"Caro aluno,
+
+Parabéns pela sua redação no Enem! Sua nota final foi 860, o que é um desempenho muito bom. Vamos analisar suas notas em cada competência e sugerir áreas específicas para melhoria.
+
+### Desempenho nas Competências
+
+1. **Competência 1 (Domínio da Língua Portuguesa)**: **140 pontos**
+   - **Análise**: Você demonstra um bom domínio da modalidade escrita formal da Língua Portuguesa, mas há espaço para melhorias em relação a desvios gramaticais e convenções da escrita.
+   - **Sugestões de Melhoria**: 
+     - Pratique a leitura de textos formais para familiarizar-se com a norma culta da língua. 
+     - Revise suas redações anteriores para identificar e corrigir os erros gramaticais que costuma cometer.
+     - Utilize ferramentas de correção gramatical para ajudar a identificar desvios.
+
+2. **Competência 2 (Desenvolvimento do Tema)**: **200 pontos**
+   - **Análise**: Excelente! Você desenvolveu o tema de forma consistente e utilizou repertório sociocultural relevante.
+   - **Sugestões de Melhoria**: 
+     - Continue a aprofundar seus conhecimentos sobre os temas atuais e suas inter-relações com a sociedade. 
+     - Pratique a elaboração de diferentes teses e argumentações para diversificar seu repertório.
+
+3. **Competência 3 (Seleção e Organização de Informações)**: **160 pontos**
+   - **Análise**: Você apresentou informações e argumentos organizados, mas pode melhorar a consistência.
+   - **Sugestões de Melhoria**: 
+     - Foque em estruturar suas ideias antes de começar a redação. Um esboço pode ajudar a organizar melhor os argumentos.
+     - Tente evitar a dependência excessiva de informações dos textos motivadores, buscando trazer mais suas próprias ideias.
+
+4. **Competência 4 (Articulação e Coesão do Texto)**: **160 pontos**
+   - **Análise**: Boa articulação das partes do texto, mas com algumas inadequações.
+   - **Sugestões de Melhoria**: 
+     - Trabalhe com conectivos e expressões que ajudam a articular melhor os parágrafos e as ideias, garantindo uma fluidez maior no texto.
+     - Pratique a leitura e análise de textos dissertativos-argumentativos bem estruturados para entender como a coesão é mantida.
+
+5. **Competência 5 (Proposta de Intervenção)**: **200 pontos**
+   - **Análise**: Excelente proposta de intervenção, detalhada e bem articulada com o tema.
+   - **Sugestões de Melhoria**: 
+     - Continue a desenvolver propostas que não apenas abordem o problema, mas que também incluam possíveis soluções inovadoras e viáveis.
+     - Pense em como suas propostas se relacionam com os direitos humanos, para garantir que sejam éticas e inclusivas.
+
+### Considerações Finais
+Para o próximo Enem, foque principalmente em melhorar sua competência 1, 3 e 4, onde você pode alcançar um desempenho ainda melhor. A prática constante e a revisão crítica de seus textos são fundamentais. Considere também a leitura de diferentes gêneros textuais, o que ajudará a ampliar seu vocabulário e a sua capacidade de argumentação.
+
+Continue"
+210060801595,"
+SELECT 
+    nu_inscricao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060801595;
+",Sucesso,"Caro aluno, 
+
+Parabéns pela sua redação! Sua nota total foi de 780 pontos, um desempenho bastante sólido. Abaixo, apresento uma análise detalhada de cada competência, juntamente com sugestões específicas de como você pode melhorar para o próximo ano.
+
+### Competência 1: Domínio da escrita formal da Língua Portuguesa (Nota: 140)
+- **Resumo**: Você demonstrou um bom domínio da língua, mas ainda apresentou alguns desvios gramaticais e de convenções de escrita.
+- **Sugestões de melhoria**:
+  - **Estudo da gramática**: Revise as regras gramaticais e faça exercícios focados em concordância verbal e nominal, regência e pontuação.
+  - **Leitura**: Leia mais textos bem escritos, como crônicas e ensaios, para entender melhor a construção de frases e a escolha de palavras.
+  - **Prática de escrita**: Escreva redações e peça para que alguém as revise, focando em corrigir os erros gramaticais.
+
+### Competência 2: Desenvolvimento do tema (Nota: 180)
+- **Resumo**: Você apresentou uma argumentação consistente e um bom domínio do texto dissertativo-argumentativo.
+- **Sugestões de melhoria**:
+  - **Repertório sociocultural**: Amplie seu repertório de referências socioculturais. Tente incluir mais dados, estudos e citações de autores relevantes para fortalecer ainda mais suas argumentações.
+  - **Estrutura do texto**: Continue praticando a estrutura de introdução, desenvolvimento e conclusão, assegurando que cada parte esteja bem conectada.
+
+### Competência 3: Seleção e organização de informações (Nota: 120)
+- **Resumo**: Sua apresentação de informações e fatos foi mediana, com dependência em argumentos dos textos motivadores.
+- **Sugestões de melhoria**:
+  - **Pesquisa**: Faça pesquisas sobre o tema que você escolhe para sua redação; isso ajudará a criar um repertório próprio e mais robusto.
+  - **Escrita crítica**: Pratique a escrita crítica, que envolve analisar e relacionar informações de diferentes fontes, criando uma argumentação própria.
+
+### Competência 4: Mecanismos linguísticos (Nota: 160)
+- **Resumo**: O texto foi bem articulado, com uso diversificado de recursos coesivos.
+- **Sugestões de melhoria**:
+  - **Exercícios de coesão**: Pratique exercícios focados em coesão textual, utilizando conectivos e pronomes de forma eficaz.
+  - **Análise de textos**: Leia textos argumentativos e identifique como os autores usam coesão; isso pode ajudar a melhorar sua própria escrita.
+
+### Competência 5: Proposta de intervenção (Nota: 180)
+- **Resumo**: Sua proposta de intervenção foi bem elaborada e articulada com a discussão do texto.
+- **Sugestões de melhoria**:
+  - **Detalhamento da proposta**: Ao elaborar propostas, busque incluir detalhes sobre como a intervenção pode ser realizada na prática. Isso mostra um aprofundamento no tema.
+  - **Estudo de casos**: Pesquise casos de intervenções bem-sucedidas em temas semelhantes para se inspirar e enriquecer suas propostas.
+
+### Considerações Finais
+Para melhorar seu desempenho na reda"
+210060214081,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210060214081;
+",Sucesso,"Caro aluno,
+
+Parabéns pelo seu desempenho na redação do Enem, com uma nota total de 800 pontos! Vamos analisar suas notas nas competências e sugerir melhorias específicas para que você possa alcançar uma pontuação ainda melhor na próxima edição.
+
+### Análise do Desempenho
+
+1. **Competência 1**: **Nota 140**
+   - **Resumo**: Você demonstra um bom domínio da modalidade escrita formal da Língua Portuguesa, mas há alguns desvios gramaticais ou de convenções que podem ser aprimorados.
+   - **Sugestões de Melhoria**:
+     - **Prática de Leitura**: Leia mais textos acadêmicos e literários. Isso ajuda a internalizar a norma culta da língua.
+     - **Revisão e Edição**: Sempre revise suas redações. Utilize ferramentas de correção gramatical e, se possível, peça a alguém para ler e opinar sobre sua escrita.
+
+2. **Competência 2**: **Nota 200**
+   - **Resumo**: Você apresentou uma argumentação excelente e um ótimo domínio do texto dissertativo-argumentativo.
+   - **Sugestões de Melhoria**:
+     - **Manter o padrão**: Continue a desenvolver suas habilidades nessa área, talvez explorando temas mais complexos ou menos conhecidos para diversificar seu repertório.
+
+3. **Competência 3**: **Nota 160**
+   - **Resumo**: Sua argumentação é boa e apresenta informações e opiniões organizadas, mas pode ser aprimorada.
+   - **Sugestões de Melhoria**:
+     - **Diversificação de Fontes**: Tente incluir diferentes tipos de repertórios socioculturais, como dados estatísticos ou citações de especialistas, para fortalecer seus argumentos.
+     - **Estruturação**: Pratique a estruturação de seus parágrafos, garantindo que cada um siga um raciocínio lógico e que os argumentos sejam interligados.
+
+4. **Competência 4**: **Nota 180**
+   - **Resumo**: Você articula bem as partes do texto e utiliza um bom repertório de recursos coesivos.
+   - **Sugestões de Melhoria**:
+     - **Variedade de Conectivos**: Amplie seu vocabulário de conectivos e transições para evitar repetições e enriquecer a fluidez do texto.
+     - **Prática de Coesão**: Escreva textos curtos e foque na coesão, experimentando diferentes formas de conectar ideias.
+
+5. **Competência 5**: **Nota 120**
+   - **Resumo**: Sua proposta de intervenção foi considerada mediana e precisa de mais articulação com a discussão do texto.
+   - **Sugestões de Melhoria**:
+     - **Detalhamento das Propostas**: Ao elaborar propostas de intervenção, seja específico sobre como elas podem ser implementadas. Por exemplo, em vez de apenas mencionar ""políticas públicas"", explique quais seriam e como funcionariam.
+     - **Conexão com o Tema**: Certifique-se de que sua proposta esteja claramente ligada aos argumentos apresentados, reforçando a lógica da sua intervenção.
+
+### Considerações Finais
+
+Com base nas suas notas, é evidente que você possui habilidades sólidas em argumentação e estruturação de textos. Focar nas áreas de gramática, coesão e elaboração"
+210059388087,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059388087;
+",Sucesso,"Caro aluno,
+
+Seu desempenho na redação do Enem foi o seguinte:
+
+- **Nota Competência 1**: 120
+- **Nota Competência 2**: 120
+- **Nota Competência 3**: 100
+- **Nota Competência 4**: 100
+- **Nota Competência 5**: 120
+- **Nota Final**: 560
+
+### Análise do Desempenho
+
+1. **Competência 1 (Domínio da Língua Portuguesa)**: Você obteve uma nota de 120, que indica um domínio mediano da modalidade escrita formal. Isso significa que há alguns desvios gramaticais e de convenções da escrita. Para melhorar, você pode:
+   - Praticar a escrita de textos dissertativos, prestando atenção às regras gramaticais e à ortografia.
+   - Revisar suas redações em busca de erros comuns, como concordância, pontuação e uso adequado de pronomes.
+
+2. **Competência 2 (Compreensão da Proposta de Redação)**: Sua nota foi 120, o que demonstra um desenvolvimento mediano do tema. Para aprimorar:
+   - Estude a estrutura do texto dissertativo-argumentativo, garantindo que suas redações tenham uma introdução clara, desenvolvimento coerente e conclusão consistente.
+   - Utilize repertório sociocultural, como citações e dados, para embasar suas argumentações, tornando-as mais sólidas.
+
+3. **Competência 3 (Seleção e Organização de Informações)**: Com a nota 100, isso indica que suas informações estavam limitadas, possivelmente repetindo argumentos dos textos motivadores. Para melhorar:
+   - Tente diversificar suas fontes de informação e não se basear apenas nos textos propostos. Busque dados e argumentos que você já conhece ou que possa pesquisar.
+   - Organize suas ideias antes de escrever, criando um esboço (outline) que ajude a estruturar seus argumentos de maneira lógica.
+
+4. **Competência 4 (Mecanismos Linguísticos)**: Sua nota de 100 mostra que a articulação das partes do texto foi insuficiente. Para aprimorar:
+   - Aumente seu repertório de conectivos e recursos coesivos para melhorar a fluidez do texto. Pratique o uso de palavras que liguem ideias, como ""portanto"", ""além disso"", ""no entanto"", etc.
+   - Leia textos bem escritos, prestando atenção à forma como os autores articulam suas ideias.
+
+5. **Competência 5 (Proposta de Intervenção)**: Com nota 120, sua proposta de intervenção foi medianamente elaborada. Para melhorá-la:
+   - Certifique-se de que sua proposta de intervenção seja clara, viável e respeite os direitos humanos. Detalhe como ela pode ser implementada.
+   - Relacione sua proposta com a discussão desenvolvida no texto, mostrando como ela se conecta ao tema abordado.
+
+### Sugestões de Estudo
+
+- **Leitura**: Leia diversos textos dissertativos, como artigos de opinião e ensaios, para entender melhor a estrutura e os argumentos utilizados.
+- **Prática de Escrita**: Escreva redações em diferentes temas, revise-as e peça feedback de professores ou colegas.
+- **Cursos e Materiais**: Considere fazer cursos de reda"
+210059980942,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059980942;
+",Sucesso,"Caro aluno,
+
+Seu desempenho na redação do Enem foi o seguinte:
+
+- **Nota Competência 1**: 120 pontos
+- **Nota Competência 2**: 120 pontos
+- **Nota Competência 3**: 100 pontos
+- **Nota Competência 4**: 120 pontos
+- **Nota Competência 5**: 100 pontos
+- **Nota Final da Redação**: 560 pontos
+
+Com base nas suas notas, aqui está uma análise detalhada das competências e sugestões específicas de melhorias:
+
+### Competência 1: Domínio da Língua Portuguesa
+- **Nota**: 120 pontos (Domínio mediano)
+- **Análise**: Você apresenta alguns desvios gramaticais e de convenções de escrita. 
+- **Sugestões**: 
+  - Pratique a leitura de textos formais, como artigos acadêmicos e ensaios. 
+  - Escreva redações e revise-as cuidadosamente para corrigir erros gramaticais e de pontuação.
+  - Utilize ferramentas de correção gramatical e faça exercícios de gramática.
+
+### Competência 2: Compreensão da Proposta de Redação
+- **Nota**: 120 pontos (Bom domínio)
+- **Análise**: Você desenvolve o tema, mas pode aprimorar a consistência da argumentação.
+- **Sugestões**: 
+  - Ao escrever, comece com uma tese clara e desenvolva argumentos que a suportem.
+  - Utilize repertórios socioculturais mais variados e faça conexões mais profundas entre suas ideias.
+  - Pratique a elaboração de esboços antes de redigir para estruturar melhor suas ideias.
+
+### Competência 3: Seleção e Organização de Informações
+- **Nota**: 100 pontos (Domínio limitado)
+- **Análise**: Suas informações e argumentos estão limitados e pouco organizados.
+- **Sugestões**: 
+  - Trabalhe em técnicas de organização, como o uso de mapas mentais ou esquemas para estruturar suas ideias.
+  - Tente incluir uma variedade maior de informações relevantes que ajudem a sustentar seu ponto de vista.
+  - Pratique a elaboração de parágrafos que se conectem de maneira lógica.
+
+### Competência 4: Mecanismos Linguísticos
+- **Nota**: 120 pontos (Articulação mediana)
+- **Análise**: Você articula as partes do texto, mas com algumas inadequações.
+- **Sugestões**: 
+  - Estude e pratique o uso de conectivos e expressões que ajudam a melhorar a fluidez do texto.
+  - Leia e analise redações de alto nível para ver como os autores usam a coesão e a coerência.
+
+### Competência 5: Proposta de Intervenção
+- **Nota**: 100 pontos (Elaboração insuficiente)
+- **Análise**: Suas propostas de intervenção são vagas ou não se relacionam bem com o tema.
+- **Sugestões**: 
+  - Foque em elaborar propostas mais concretas e detalhadas que sejam viáveis e respeitem os direitos humanos.
+  - Estude exemplos de propostas de intervenção em redações nota 1000 e tente aplicar essa estrutura em suas próprias redações.
+  - Pratique a formulação de propostas em outros contextos,"
+210058061534,"
+SELECT nu_inscricao, 
+       tp_status_redacao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058061534;
+",Sucesso,"Olá! Vamos analisar seu desempenho na redação do Enem e fornecer sugestões de melhoria com base nas competências avaliadas. 
+
+### Desempenho nas Competências
+
+1. **Competência 1 (Domínio da Língua Portuguesa)**: Nota 160
+   - **Resumo**: Você demonstra um bom domínio da modalidade escrita formal da língua portuguesa, com poucos desvios gramaticais. 
+   - **Sugestões de Melhoria**: 
+     - Revise as regras gramaticais, especialmente concordância verbal e nominal, pontuação e uso de crase.
+     - Pratique a escrita de pequenos textos e solicite feedback sobre a gramática e a estrutura.
+     - Leia mais textos formais e analise a linguagem utilizada.
+
+2. **Competência 2 (Compreensão e Desenvolvimento do Tema)**: Nota 180
+   - **Resumo**: Você apresentou uma argumentação consistente e um bom domínio do texto dissertativo-argumentativo.
+   - **Sugestões de Melhoria**: 
+     - Amplie seu repertório sociocultural, utilizando referências mais diversificadas e pertinentes ao tema.
+     - Estruture melhor suas ideias em torno de uma tese clara, com argumentação sólida e coesa.
+     - Pratique a elaboração de teses e argumentos a partir de temas propostos.
+
+3. **Competência 3 (Organização e Interpretação de Informações)**: Nota 160
+   - **Resumo**: Você organizou suas informações de forma razoável, mas pode aprimorar a profundidade e a variedade dos seus argumentos.
+   - **Sugestões de Melhoria**: 
+     - Trabalhe na variedade de exemplos e dados que sustentem seus argumentos, evitando depender excessivamente dos textos motivadores.
+     - Experimente criar mapas mentais para organizar suas ideias antes de escrever.
+     - Pratique a escrita de parágrafos argumentativos que apresentem uma clara relação entre a tese e os argumentos.
+
+4. **Competência 4 (Coesão e Coerência)**: Nota 180
+   - **Resumo**: Sua articulação entre as partes do texto é boa, com uso de recursos coesivos.
+   - **Sugestões de Melhoria**: 
+     - Continue a diversificar seu uso de conectivos e expressões que ajudam na fluidez do texto.
+     - Revise seus textos em busca de possíveis repetições e busque sinônimos ou reestruture sentenças para melhorar a coesão.
+     - Pratique a leitura crítica de textos para perceber como a coesão é utilizada eficazmente.
+
+5. **Competência 5 (Proposta de Intervenção)**: Nota 200
+   - **Resumo**: Você elaborou uma proposta de intervenção muito bem estruturada e articulada ao tema discutido.
+   - **Sugestões de Melhoria**: 
+     - Continue a desenvolver propostas de intervenção detalhadas e viáveis em seus textos, respeitando os direitos humanos.
+     - Analise propostas de intervenção em redações nota 1000 para entender o que as torna eficazes.
+
+### Considerações Finais
+Sua nota total foi 880, o que é um bom resultado, mas há sempre espaço para a melhoria. Foco nas competências onde você teve desempenho mediano (Competências 1, 2 e 3) pode te levar a uma nota ainda mais"
+210059855117,"
+SELECT nu_inscricao, nu_nota_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059855117;
+",Sucesso,"Caro aluno, 
+
+Primeiramente, parabéns por ter realizado a prova de redação do Enem. Vamos analisar seu desempenho e propor melhorias para o próximo ano com base nas suas notas em cada competência. 
+
+### Desempenho Geral
+
+- **Nota Final da Redação**: 480 pontos
+- **Competência 1**: 120 pontos
+- **Competência 2**: 120 pontos
+- **Competência 3**: 120 pontos
+- **Competência 4**: 120 pontos
+- **Competência 5**: 0 pontos
+
+### Análise de Desempenho por Competência
+
+1. **Competência 1 (Domínio da Língua Portuguesa)**: 120 pontos
+   - **Análise**: Você apresenta um domínio mediano da modalidade escrita formal da língua portuguesa, com alguns desvios gramaticais. 
+   - **Sugestões de Melhoria**: 
+     - Pratique a escrita revisando as regras gramaticais e ortográficas. 
+     - Leia textos diversos, prestando atenção na estrutura e na formalidade da linguagem.
+     - Faça exercícios de gramática e escrita, focando em aspectos que você percebeu que errou ou teve dificuldade.
+
+2. **Competência 2 (Compreensão do Tema)**: 120 pontos
+   - **Análise**: Sua argumentação é previsível, e há um domínio mediano do texto dissertativo-argumentativo.
+   - **Sugestões de Melhoria**: 
+     - Estude como desenvolver uma tese clara e forte.
+     - Busque repertório sociocultural sobre os temas abordados no Enem, lendo artigos, ensaios e livros que ajudem a enriquecer suas argumentações.
+     - Pratique a estruturação do texto: introdução, desenvolvimento (com argumentos robustos) e conclusão.
+
+3. **Competência 3 (Organização e Interpretação de Informações)**: 120 pontos
+   - **Análise**: As informações apresentadas estão limitadas aos argumentos dos textos motivadores e pouco organizadas.
+   - **Sugestões de Melhoria**: 
+     - Treine a organização de suas ideias em um esquema ou mapa mental antes de escrever.
+     - Certifique-se de que cada parágrafo tenha um foco claro e que as ideias fluam de uma para a outra de maneira lógica.
+     - Utilize exemplos concretos e dados que sustentem seus argumentos.
+
+4. **Competência 4 (Articulação do Texto)**: 120 pontos
+   - **Análise**: Há uma articulação mediana das partes do texto com algumas inadequações.
+   - **Sugestões de Melhoria**: 
+     - Pratique o uso de conectivos e palavras de transição para melhorar a fluidez do texto.
+     - Leia suas redações em voz alta para identificar partes que não soam naturais ou que precisam de melhor articulação.
+
+5. **Competência 5 (Proposta de Intervenção)**: 0 pontos
+   - **Análise**: Não foi apresentada uma proposta de intervenção, o que resultou na nota zero nesta competência.
+   - **Sugestões de Melhoria**: 
+     - Aprenda sobre a estrutura de uma proposta de intervenção: o que é, como deve ser formulada e quais elementos deve conter (quem deve fazer"
+210058387328,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210058387328;
+",Sucesso,"Caro aluno,
+
+Analisando sua redação do Enem, você obteve a seguinte pontuação nas competências:
+
+- **Competência 1:** 120 pontos
+- **Competência 2:** 120 pontos
+- **Competência 3:** 120 pontos
+- **Competência 4:** 120 pontos
+- **Competência 5:** 80 pontos
+- **Nota Final:** 560 pontos
+
+**Resumo das Competências:**
+
+1. **Competência 1:** Domínio da modalidade escrita formal da Língua Portuguesa. Um bom domínio, mas com alguns desvios gramaticais.
+   - **Sugestões de Melhoria:** Pratique a revisão de textos, focando em gramática e ortografia. Utilize ferramentas como corretores gramaticais e revise seus textos com atenção para evitar erros repetidos.
+
+2. **Competência 2:** Compreensão da proposta de redação e desenvolvimento do tema. A argumentação é previsível.
+   - **Sugestões de Melhoria:** Amplie seu repertório cultural e informativo. Leia mais sobre temas diversos e pratique a elaboração de argumentos, buscando sempre conectar ideias de forma mais original.
+
+3. **Competência 3:** Seleção e organização de informações e argumentos. Os argumentos são limitados e pouco organizados.
+   - **Sugestões de Melhoria:** Estruture suas ideias antes de escrever. Utilize esboços e mapas mentais para organizar os argumentos e informações que deseja apresentar, garantindo que cada ponto esteja bem fundamentado.
+
+4. **Competência 4:** Utilização de mecanismos linguísticos para a construção da argumentação. A articulação é mediana.
+   - **Sugestões de Melhoria:** Estude e aplique diferentes recursos coesivos para conectar suas ideias. Pratique a leitura de bons textos dissertativos para entender como esses recursos são usados na prática.
+
+5. **Competência 5:** Proposta de intervenção com relação ao tema. A proposta é insuficiente.
+   - **Sugestões de Melhoria:** Ao elaborar sua proposta de intervenção, detalhe como ela será implementada e quais são os benefícios esperados. Estude exemplos de propostas de intervenção bem estruturadas e procure alinhá-las ao tema discutido.
+
+**Considerações Finais:**
+Para melhorar sua redação no próximo ano, é aconselhável que você pratique regularmente. Escreva redações a partir de temas variados e busque feedback de professores ou colegas. Além disso, a leitura de obras literárias, artigos e ensaios pode enriquecer seu vocabulário e sua capacidade argumentativa.
+
+Boa sorte nos seus estudos e no próximo exame!"
+210060801596,"
+SELECT 
+    nu_inscricao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210060801596;
+",Sucesso,"Olá! Vamos analisar seu desempenho na redação do Enem e sugerir formas de melhoria para cada uma das competências.
+
+### Desempenho Geral
+- **Nota Final da Redação:** 540 pontos
+- **Notas por Competência:**
+  - Competência 1: 100 pontos
+  - Competência 2: 160 pontos
+  - Competência 3: 120 pontos
+  - Competência 4: 120 pontos
+  - Competência 5: 40 pontos
+
+### Análise por Competência
+
+1. **Competência 1 (Domínio da Língua Portuguesa): 100 pontos**
+   - **Análise:** Você demonstrou um domínio precário da modalidade escrita formal da Língua Portuguesa. É importante focar em gramática, ortografia e pontuação.
+   - **Sugestões de Melhoria:**
+     - Pratique a escrita revisando as regras gramaticais.
+     - Leia textos de diferentes gêneros para se familiarizar com a modalidade escrita formal.
+     - Faça exercícios de gramática e peça feedback sobre suas produções textuais.
+
+2. **Competência 2 (Desenvolvimento do Tema): 160 pontos**
+   - **Análise:** Você apresentou um bom desenvolvimento do tema, mas ainda pode melhorar a consistência da argumentação.
+   - **Sugestões de Melhoria:**
+     - Amplie seu repertório sociocultural, incluindo mais referências, dados e exemplos que sustentem sua argumentação.
+     - Estruture bem suas ideias em parágrafos, com uma introdução clara, desenvolvimento coerente e conclusão objetiva.
+
+3. **Competência 3 (Organização e Interpretação de Informações): 120 pontos**
+   - **Análise:** Você apresentou informações relacionadas ao tema, mas sua organização poderia ser aprimorada.
+   - **Sugestões de Melhoria:**
+     - Pratique a construção de esboços ou mapas mentais antes de escrever, para organizar suas ideias.
+     - Utilize conectores lógicos para garantir a fluidez entre os parágrafos e a coesão do texto.
+
+4. **Competência 4 (Construção da Argumentação): 120 pontos**
+   - **Análise:** Sua articulação foi mediana e há espaço para diversificar os recursos coesivos.
+   - **Sugestões de Melhoria:**
+     - Estude diferentes recursos coesivos e como usá-los para articular melhor suas ideias.
+     - Leia e analise redações bem avaliadas para entender como a coesão e a coerência foram construídas.
+
+5. **Competência 5 (Proposta de Intervenção): 40 pontos**
+   - **Análise:** Sua proposta de intervenção foi considerada vaga ou precária, o que impactou negativamente sua nota.
+   - **Sugestões de Melhoria:**
+     - Aprenda a elaborar propostas de intervenção mais específicas e detalhadas, que demonstrem compreensão do problema abordado.
+     - Inclua noções de direitos humanos e como sua proposta respeita esses direitos. Pratique a elaboração de propostas em redações anteriores para ganhar confiança.
+
+### Considerações Finais
+Para melhorar sua redação no próximo ano, é essencial dedicar tempo para praticar a escrita, revisar conceitos gramaticais, enriquecer seu repertório argumentativo e trabalhar em propostas de intervenção mais robustas. Considere também a"
+210061103941,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210061103941;
+",Sucesso,"Caro aluno,
+
+Parabéns pelo seu desempenho na redação do Enem, com uma nota total de 820 pontos. Abaixo, apresento uma análise do seu desempenho em cada uma das competências e sugestões de como você pode melhorar para o próximo ano.
+
+### Análise do Desempenho
+
+1. **Competência 1 (Domínio da Língua Portuguesa)**: Nota 160
+   - Você demonstrou um bom domínio da modalidade escrita formal da língua portuguesa, com poucos desvios gramaticais. 
+   - **Sugestões de Melhoria**: Para alcançar uma pontuação ainda mais alta, revise a gramática e a ortografia. Pratique exercícios de gramática e leitura de textos bem escritos. Uma boa dica é ler obras literárias e prestar atenção nas construções frasais.
+
+2. **Competência 2 (Compreensão da Proposta de Redação)**: Nota 180
+   - Você desenvolveu o tema de forma consistente, apresentando uma argumentação bem elaborada.
+   - **Sugestões de Melhoria**: Para melhorar, busque diversificar suas fontes de repertório sociocultural. Inclua referências a teorias, dados estatísticos e exemplos concretos que enriqueçam sua argumentação.
+
+3. **Competência 3 (Seleção e Organização de Informações)**: Nota 160
+   - Você apresentou informações e opiniões de forma organizada, defendendo um ponto de vista claro.
+   - **Sugestões de Melhoria**: Tente incluir mais dados ou fatos que sustentem seus argumentos. Organize suas ideias de forma a criar uma linha de raciocínio mais clara e coesa, utilizando parágrafos bem estruturados.
+
+4. **Competência 4 (Mecanismos Linguísticos para Argumentação)**: Nota 160
+   - Sua redação foi articulada de forma razoável, com uso adequado de recursos coesivos.
+   - **Sugestões de Melhoria**: Para aprimorar a coesão e coerência, pratique a utilização de conectivos e transições entre as ideias. Tente variar o uso de conectivos, evitando repetições.
+
+5. **Competência 5 (Proposta de Intervenção)**: Nota 160
+   - Você apresentou uma proposta de intervenção relacionada ao tema, mas poderia ser mais detalhada.
+   - **Sugestões de Melhoria**: Ao elaborar sua proposta, pense em como ela pode ser implementada na prática e quais os impactos que poderia ter. Use exemplos de políticas públicas existentes como referência.
+
+### Considerações Finais
+Para maximizar sua nota, é essencial praticar a escrita regularmente e revisar suas redações anteriores, identificando os pontos que podem ser melhorados. Além disso, a leitura de textos argumentativos, como ensaios e artigos de opinião, pode ajudá-lo a entender melhor como estruturar sua própria argumentação e a enriquecer seu repertório.
+
+Continue se dedicando e, com certeza, você poderá alcançar uma nota ainda mais alta na próxima edição do Enem!
+
+Atenciosamente,  
+[Seu Nome]  
+Professor de Redação"
+210059388088,"
+SELECT nu_inscricao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059388088;
+",Sucesso,"Caro aluno, 
+
+Parabéns pelo seu desempenho na redação do Enem! Você obteve uma nota total de 880 pontos, o que é um resultado bastante positivo. Vamos analisar suas notas nas competências e oferecer sugestões de melhoria:
+
+### 1. Competência 1: Domínio da modalidade escrita formal da Língua Portuguesa
+**Nota: 160**  
+Você demonstra um bom domínio da escrita formal, com poucos desvios gramaticais. Para melhorar, sugiro:
+- **Prática de escrita**: Dedique um tempo para revisar as regras gramaticais e a ortografia. Faça exercícios de gramática e praticar a escrita de textos dissertativos.
+- **Leitura crítica**: Leia textos bem escritos, como crônicas, artigos de opinião e ensaios. Isso ajuda a internalizar a norma culta da língua.
+
+### 2. Competência 2: Compreensão da proposta de redação e desenvolvimento do tema
+**Nota: 200**  
+Excelente desempenho! Você desenvolveu o tema de forma consistente e apresentou uma argumentação clara. Para manter esse nível:
+- **Diversificação de repertório**: Continue a inserir referências culturais, históricas e sociológicas que enriquecem a argumentação. 
+
+### 3. Competência 3: Seleção e organização de informações
+**Nota: 160**  
+Você apresentou informações e opiniões de forma organizada, mas há espaço para melhorar:
+- **Estruturação do texto**: Pratique organizar melhor suas ideias. Use mapas mentais ou esboços antes de escrever a redação para garantir que todos os pontos estejam bem articulados.
+- **Evidências**: Sempre que possível, utilize dados ou exemplos concretos para respaldar suas afirmações.
+
+### 4. Competência 4: Mecanismos linguísticos para construção da argumentação
+**Nota: 180**  
+Você articula bem as partes do texto, com um repertório diversificado de recursos coesivos. Para melhorar ainda mais:
+- **Coesão e coerência**: Continue praticando a utilização de conectivos e expressões que ajudam a ligar as ideias. Tente variar os recursos coesivos para não se tornar repetitivo.
+
+### 5. Competência 5: Proposta de intervenção
+**Nota: 180**  
+Você apresentou uma proposta de intervenção detalhada e bem relacionada ao tema. Para aprimorar:
+- **Detalhamento das propostas**: Ao elaborar sua proposta, pense em como implementar essas ações na prática. Quais seriam os passos? Quem seriam os responsáveis? Isso pode tornar sua intervenção ainda mais convincente.
+
+### Considerações Finais
+Para o próximo ano, continue praticando e escrevendo redações. Tente também fazer simulados, se possível, para se acostumar com o tempo e a pressão do exame. Revisar redações anteriores, tanto suas quanto de outros alunos, pode ser muito útil para aprender e identificar pontos de melhoria.
+
+Se precisar de mais alguma orientação ou ajuda específica em qualquer um dos tópicos, não hesite em perguntar! Boa sorte nos seus estudos!"
+210059980943,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059980943;
+",Sucesso,"Caro aluno,
+
+Parabéns pelo seu desempenho na redação do Enem! Você obteve uma nota total de 620 pontos, o que demonstra um bom entendimento da proposta de redação e uma habilidade razoável na escrita. Vamos analisar suas notas em cada uma das competências e oferecer sugestões de melhoria:
+
+### Competência 1: Domínio da modalidade escrita formal da Língua Portuguesa
+**Nota: 120**  
+Você demonstra um domínio mediano da língua portuguesa, com alguns desvios gramaticais e de convenções da escrita.  
+**Sugestões de melhoria:**
+- **Prática de leitura:** Leia textos variados (artigos, crônicas, ensaios) para se familiarizar com a estrutura e a gramática da língua. 
+- **Revisão escrita:** Após escrever, revise seu texto em busca de erros gramaticais e de pontuação. Uma boa prática é ler em voz alta.
+- **Exercícios de gramática:** Realize exercícios focados em gramática e ortografia, especialmente sobre os tópicos que você encontrou dificuldades.
+
+### Competência 2: Compreensão e desenvolvimento do tema
+**Nota: 140**  
+Você desenvolveu o tema de maneira consistente, mas ainda pode aprimorar a argumentação.  
+**Sugestões de melhoria:**
+- **Repertório sociocultural:** Amplie seu conhecimento sobre temas atuais e relevantes que podem ser utilizados como repertório em suas redações. Assista documentários, leia livros e artigos que abordem questões sociais.
+- **Estrutura de argumentação:** Pratique a construção de argumentos claros, utilizando dados e exemplos concretos para fundamentar suas ideias. Utilize a estrutura de proposição, desenvolvimento e conclusão.
+
+### Competência 3: Seleção e organização de informações
+**Nota: 120**  
+Você apresentou informações relacionadas ao tema, mas elas podem ser mais organizadas e diversificadas.  
+**Sugestões de melhoria:**
+- **Mapas mentais:** Utilize mapas mentais para organizar suas ideias antes de escrever. Isso ajuda a visualizar a estrutura do texto e a conexão entre os argumentos.
+- **Diversificação de fontes:** Ao selecionar informações, busque opiniões e dados de diferentes fontes, o que enriquecerá sua argumentação.
+
+### Competência 4: Mecanismos linguísticos
+**Nota: 120**  
+Sua articulação entre as partes do texto é razoável, mas ainda pode ser melhorada.  
+**Sugestões de melhoria:**
+- **Uso de conectivos:** Pratique a utilização de conectivos e expressões que ajudam na coesão do texto (como ""além disso"", ""por outro lado"", ""portanto"").
+- **Variedade de estruturas:** Varie a estrutura das suas frases. Tente intercalar frases mais curtas com frases mais longas para manter o leitor engajado.
+
+### Competência 5: Proposta de intervenção
+**Nota: 120**  
+Você elaborou uma proposta de intervenção, mas ela pode ser mais detalhada e articulada.  
+**Sugestões de melhoria:**
+- **Detalhamento da proposta:** Ao elaborar sua proposta de intervenção, pense em como ela pode ser implementada na prática. Quais seriam os passos necessários? Quais órgãos ou instituições estariam envolvidos?
+- **Respeito aos direitos humanos:** Certifique-se de que sua proposta respeita os direitos humanos e é viável."
+210058061535,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210058061535;
+",Sucesso,"Caro aluno,
+
+Parabéns pelo seu desempenho na redação do Enem! Sua nota total foi 540, o que indica que você apresentou um desempenho mediano nas competências avaliadas. Abaixo, farei uma análise detalhada de suas notas em cada competência e sugerirei formas de melhorar no próximo ano.
+
+### Análise do Desempenho
+
+1. **Competência 1 (Domínio da modalidade escrita formal da Língua Portuguesa): 120 pontos**
+   - **Resumo**: Você demonstra domínio mediano da norma padrão, com alguns desvios gramaticais e de convenções da escrita.
+   - **Sugestões de Melhoria**:
+     - **Estudo Gramatical**: Realize exercícios de gramática e ortografia. Considere ler obras de autores renomados, prestando atenção à estrutura das frases e ao uso correto da língua.
+     - **Produção de Textos**: Pratique a escrita de pequenos textos, focando na correção gramatical. Peça para professores ou colegas revisarem suas produções.
+
+2. **Competência 2 (Compreensão da proposta de redação e desenvolvimento do tema): 120 pontos**
+   - **Resumo**: Você apresentou uma argumentação previsível e um domínio mediano da estrutura do texto dissertativo-argumentativo.
+   - **Sugestões de Melhoria**:
+     - **Leitura Crítica**: Leia textos de diferentes gêneros e identifique como os autores estruturam suas ideias. Isso ajudará a desenvolver sua capacidade de argumentação.
+     - **Prática de Argumentação**: Escolha temas variados e escreva redações argumentativas, tentando sempre apresentar uma tese clara, argumentos consistentes e uma conclusão que atue como um fechamento eficaz.
+
+3. **Competência 3 (Seleção e organização de informações): 100 pontos**
+   - **Resumo**: Suas informações e argumentos estavam limitados e pouco organizados.
+   - **Sugestões de Melhoria**:
+     - **Mapas Mentais**: Antes de escrever, faça um esquema ou mapa mental para organizar suas ideias. Isso ajudará a manter a clareza e a coerência no seu texto.
+     - **Análise de Textos Motivadores**: Pratique a leitura e a análise de textos que são utilizados como motivadores nas provas, buscando entender como extrair informações pertinentes a partir deles.
+
+4. **Competência 4 (Mecanismos de coesão e articulação do texto): 120 pontos**
+   - **Resumo**: Você articula as partes do texto de forma mediana, apresentando algumas inadequações.
+   - **Sugestões de Melhoria**:
+     - **Coesão e Coerência**: Estude os conectivos e sua função no texto. Pratique a utilização de diferentes recursos coesivos para melhorar a fluidez.
+     - **Revisão de Textos**: Após escrever, revise seu texto em busca de palavras ou frases que possam ser melhor conectadas.
+
+5. **Competência 5 (Elaboração de proposta de intervenção): 80 pontos**
+   - **Resumo**: Sua proposta de intervenção foi considerada insuficiente e pouco articulada.
+   - **Sugestões de Melhoria**:
+     - **Estudo de Propostas**: Leia exemplos de propostas de intervenção bem elaboradas em redações nota 1000. Identifique"
+210058387329,"
+SELECT 
+    nu_inscricao, 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210058387329;
+",Sucesso,"Caro aluno, 
+
+Você obteve uma nota total de 920 pontos na redação do Enem, o que é uma excelente pontuação. Vamos analisar seu desempenho em cada uma das competências e sugerir formas de melhoria, especialmente nas áreas em que você pode alcançar ainda melhores resultados.
+
+### Desempenho por Competência:
+
+1. **Competência 1 (Domínio da Língua Portuguesa) - Nota: 160**
+   - **Análise**: Você demonstrou bom domínio da modalidade escrita formal da Língua Portuguesa, com poucos desvios gramaticais.
+   - **Sugestão de Melhoria**: Para alcançar uma pontuação ainda mais alta, você pode focar em revisar cuidadosamente suas redações para evitar erros gramaticais e de concordância. A prática da leitura de textos bem escritos e a realização de exercícios de gramática podem ajudar a aprimorar ainda mais seu domínio.
+
+2. **Competência 2 (Compreensão e Desenvolvimento do Tema) - Nota: 200**
+   - **Análise**: Parabéns! Você apresentou um excelente desenvolvimento do tema com argumentação consistente e boa estruturação do texto dissertativo-argumentativo.
+   - **Sugestão de Melhoria**: Continue praticando a construção de argumentos e a aplicação de repertórios socioculturais. Você pode explorar diferentes temas, lendo e discutindo assuntos variados que podem enriquecer seu conhecimento e sua capacidade de argumentação.
+
+3. **Competência 3 (Organização de Informações e Argumentos) - Nota: 160**
+   - **Análise**: Você apresentou informações e argumentos de forma organizada e consistente.
+   - **Sugestão de Melhoria**: Para melhorar ainda mais, experimente criar esboços antes de escrever a redação. Isso ajudará a organizar suas ideias e a garantir que cada argumento esteja claramente relacionado ao seu ponto de vista.
+
+4. **Competência 4 (Articulação e Coesão Textual) - Nota: 200**
+   - **Análise**: Você demonstrou excelente articulação entre as partes do texto e utilizou bem os recursos coesivos.
+   - **Sugestão de Melhoria**: Continue a praticar a variação no uso de conectivos e recursos de coesão. A leitura de textos diversos pode ajudá-lo a identificar diferentes formas de articular ideias.
+
+5. **Competência 5 (Proposta de Intervenção) - Nota: 200**
+   - **Análise**: Sua proposta de intervenção foi bem elaborada e articulada com a discussão do texto.
+   - **Sugestão de Melhoria**: Continue a desenvolver propostas que sejam não apenas viáveis, mas também detalhadas e que respeitem os direitos humanos. Estudar exemplos de propostas de intervenção em diferentes contextos pode ajudar a diversificar suas ideias.
+
+### Considerações Finais:
+Para melhorar sua nota na redação do Enem, recomendo que você se concentre em aprimorar seu domínio gramatical e continue a praticar a construção de textos dissertativos-argumentativos, sempre buscando aprofundar seus conhecimentos sobre os temas abordados.
+
+Além disso, a prática constante e a revisão do que você escreveu são essenciais. Você pode também participar de grupos de estudo ou de oficinas de redação para receber feedback e aprender com os colegas. 
+
+Com dedicação e prática, você poderá alcançar resultados ainda mais altos na próxima edição do"
+210059085132,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, 
+       nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059085132;
+",Sucesso,"Olá! Vamos analisar o seu desempenho na redação do Enem e discutir algumas estratégias para melhorar nas próximas edições. Com base nas notas que você obteve, temos:
+
+- **Competência 1: 120 pontos**
+- **Competência 2: 120 pontos**
+- **Competência 3: 120 pontos**
+- **Competência 4: 120 pontos**
+- **Competência 5: 120 pontos**
+- **Nota total: 600 pontos**
+
+### Resumo das Competências e Sugestões de Melhoria:
+
+1. **Competência 1: Domínio da modalidade escrita formal da Língua Portuguesa**
+   - Você apresentou um domínio mediano da escrita formal, com alguns desvios gramaticais.
+   - **Sugestões de melhoria:**
+     - Pratique a leitura de textos dissertativos e argumentativos para absorver a estrutura e a formalidade da língua.
+     - Faça exercícios de gramática focados nas suas dificuldades específicas.
+     - Revise suas redações em busca de erros comuns e busque corrigi-los.
+
+2. **Competência 2: Compreender a proposta de redação e desenvolver o tema**
+   - Sua argumentação foi previsível, e você apresentou um domínio mediano do texto dissertativo.
+   - **Sugestões de melhoria:**
+     - Escolha temas variados para praticar a redação, buscando sempre trazer propostas e argumentos novos.
+     - Use repertório sociocultural, como citações ou dados de estudos, para enriquecer suas argumentações.
+     - Tente estruturar suas redações com uma introdução clara, desenvolvimento consistente e conclusão que retome a proposta inicial.
+
+3. **Competência 3: Selecionar e organizar informações**
+   - Você apresentou informações limitadas aos textos motivadores e com pouca organização.
+   - **Sugestões de melhoria:**
+     - Faça um mapa mental ou esboço antes de começar a redação, organizando suas ideias principais.
+     - Pratique a relação entre as suas ideias e o tema proposto, evitando depender apenas dos textos motivadores.
+     - Tente argumentar a partir de diferentes perspectivas, mostrando profundidade em suas análises.
+
+4. **Competência 4: Mecanismos linguísticos para a argumentação**
+   - Sua articulação foi mediana, com algumas inadequações nos recursos coesivos.
+   - **Sugestões de melhoria:**
+     - Estude conectivos e outros mecanismos de coesão textual, como pronomes, para melhorar a fluidez do texto.
+     - Pratique a leitura de textos bem estruturados e tente imitá-los em suas produções.
+     - Revise suas redações para verificar se as ideias estão bem conectadas e se a transição entre os parágrafos é clara.
+
+5. **Competência 5: Proposta de intervenção**
+   - Sua proposta de intervenção foi mediana, relacionada ao tema, mas poderia ser mais detalhada.
+   - **Sugestões de melhoria:**
+     - Ao elaborar propostas de intervenção, pense em ações específicas que poderiam ser implementadas, com detalhes sobre como funcionariam.
+     - Relacione suas propostas às discussões que você desenvolveu em seu texto, garantindo uma ligação lógica.
+     - Pesquise sobre políticas públicas ou iniciativas que possam servir de inspiração para suas propostas.
+
+### Considerações Finais:
+A nota de 600"
+210059527731,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059527731;
+",Sucesso,"Caro aluno, 
+
+Parabéns pelo seu desempenho na redação do Enem, onde você obteve uma nota total de 680 pontos. Vamos analisar suas notas em cada competência e oferecer sugestões de melhoria para que você possa se destacar ainda mais na próxima edição.
+
+### Desempenho por Competência:
+
+1. **Competência 1 (Domínio da Língua Portuguesa)**: Nota 140
+   - **Resumo**: Você demonstra um bom domínio da modalidade escrita formal, mas ainda há espaço para melhorar, especialmente em relação a desvios gramaticais.
+   - **Sugestões de melhoria**: 
+     - Pratique a escrita revisando as regras gramaticais, como concordância, regência e pontuação.
+     - Leia mais textos formais e tente reproduzir estilos similares em suas redações.
+     - Considere fazer exercícios de gramática focando nas áreas onde você comete mais erros.
+
+2. **Competência 2 (Desenvolvimento do Tema)**: Nota 140
+   - **Resumo**: Sua argumentação é boa, mas pode ser aprimorada na consistência e na profundidade.
+   - **Sugestões de melhoria**: 
+     - Estude como estruturar uma argumentação sólida, utilizando dados e exemplos concretos.
+     - Pratique a elaboração de teses claras e procure desenvolver argumentos que se conectem de forma lógica.
+     - Use repertório sociocultural, como citações de autores ou eventos atuais, para enriquecer suas ideias.
+
+3. **Competência 3 (Seleção e Organização de Informações)**: Nota 120
+   - **Resumo**: A apresentação de informações e opiniões foi mediana, com dependência dos textos motivadores.
+   - **Sugestões de melhoria**: 
+     - Ao escrever, busque trazer suas próprias informações e opiniões, evitando se limitar aos textos motivadores.
+     - Organize suas ideias em um esboço antes de iniciar a redação para garantir que cada parte do texto tenha uma função clara e contribua para a argumentação.
+
+4. **Competência 4 (Mecanismos Linguísticos)**: Nota 140
+   - **Resumo**: Boa articulação entre as partes do texto, mas com necessidade de diversificação nos recursos coesivos.
+   - **Sugestões de melhoria**: 
+     - Estude diferentes conectivos e transições que podem ser usados para melhorar a fluidez do texto.
+     - Ao revisar seu texto, verifique se as partes estão bem conectadas e se os recursos coesivos utilizados são variados.
+
+5. **Competência 5 (Proposta de Intervenção)**: Nota 140
+   - **Resumo**: Boa proposta de intervenção, mas poderia ser mais detalhada e articulada à discussão.
+   - **Sugestões de melhoria**: 
+     - Ao elaborar a proposta, pense em ações específicas que poderiam ser implementadas e como elas se relacionam com os pontos discutidos anteriormente.
+     - Pratique criar propostas de intervenção em temas diversos, buscando sempre relacioná-las com a argumentação do texto.
+
+### Considerações Finais:
+Para melhorar sua nota na próxima redação do Enem, recomendo que você:
+
+- **Leia mais**: A leitura de diferentes gêneros textuais pode ajudar a ampliar seu vocabulário e a sua capacidade de argumentação.
+- **Escreva com frequência**: Pratique"
+210060214083,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210060214083;
+",Sucesso,"Caro aluno,
+
+Parabéns pela sua participação na redação do Enem! Vamos analisar seu desempenho nas cinco competências da redação e fornecer sugestões de melhoria para o próximo ano.
+
+### Desempenho na Redação
+
+1. **Competência 1**: 120 pontos
+   - **Análise**: Você demonstrou um **domínio mediano** da modalidade escrita formal da língua portuguesa. Embora tenha apresentado alguns desvios gramaticais, é importante trabalhar para melhorar a sua escrita.
+   - **Sugestões**: 
+     - Pratique a leitura e a escrita regularmente.
+     - Revise e reescreva seus textos, focando na correção gramatical.
+     - Utilize dicionários e gramáticas como ferramentas de consulta.
+
+2. **Competência 2**: 160 pontos
+   - **Análise**: Sua argumentação é **boa**, mas pode ser aprimorada. Você desenvolveu o tema de forma consistente, mas talvez tenha se apoiado em argumentos previsíveis.
+   - **Sugestões**:
+     - Estude diferentes pontos de vista sobre os temas comuns do Enem.
+     - Utilize repertório sociocultural mais diversificado, incluindo dados, citações e exemplos atualizados.
+
+3. **Competência 3**: 120 pontos
+   - **Análise**: Você apresentou informações e opiniões relacionadas ao tema, mas pode melhorar na organização e na originalidade dos argumentos.
+   - **Sugestões**:
+     - Pratique a construção de mapas mentais antes de escrever, para organizar suas ideias.
+     - Tente relacionar os argumentos com experiências pessoais ou eventos recentes.
+
+4. **Competência 4**: 120 pontos
+   - **Análise**: Sua articulação de partes do texto foi mediana, mas houve algumas inadequações nos recursos coesivos.
+   - **Sugestões**:
+     - Estude e pratique o uso de conectivos para melhorar a fluidez do texto.
+     - Leia textos bem estruturados e analise como os autores organizam suas ideias.
+
+5. **Competência 5**: 0 pontos
+   - **Análise**: Você não apresentou uma proposta de intervenção, que é essencial para a redação do Enem.
+   - **Sugestões**:
+     - Aprenda a formular propostas de intervenção que sejam práticas e respeitem os direitos humanos.
+     - Pratique a elaboração de propostas em textos de redação, garantindo que elas estejam sempre ligadas ao tema abordado.
+
+### Considerações Finais
+
+Sua nota total foi de **520 pontos**, que é uma boa base para trabalhar, mas há áreas que precisam de atenção, especialmente na Competência 5, onde a falta de uma proposta de intervenção impactou significativamente sua nota. 
+
+Recomendo que você comece a praticar redações desde já, focando nas sugestões acima. Além disso, considere participar de grupos de estudo ou oficinas de redação, onde você pode receber feedback e melhorar suas habilidades.
+
+Boa sorte nos seus estudos e na sua preparação para o próximo Enem! Estou aqui para ajudar se precisar de mais orientações."
+210058061536,"
+SELECT 
+    nu_inscricao, 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210058061536;
+",Sucesso,
+210061103943,"
+SELECT 
+    nu_inscricao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210061103943;
+",Sucesso,
+210059980946,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059980946;
+",Sucesso,
+210059855121,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059855121;
+",Sucesso,
+210059085135,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059085135;
+",Sucesso,
+210059527734,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059527734;
+",Sucesso,
+210061103944,"
+SELECT nu_inscricao, 
+       tp_status_redacao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210061103944;
+",Sucesso,
+210060214086,"
+SELECT nu_inscricao, nu_nota_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210060214086;
+",Sucesso,
+210059388092,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059388092;
+",Sucesso,
+210059980947,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059980947;
+",Sucesso,
+210059855119,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059855119;
+",Sucesso,
+210058387330,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058387330;
+",Sucesso,
+210059085133,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059085133;
+",Sucesso,
+210061103942,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210061103942;
+",Sucesso,
+210059388090,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059388090;
+",Sucesso,
+210059980945,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059980945;
+",Sucesso,
+210058061537,"
+SELECT nu_inscricao, 
+       tp_status_redacao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058061537;
+",Sucesso,
+210058387331,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210058387331;
+",Sucesso,
+210059085134,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059085134;
+",Sucesso,
+210060801599,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060801599;
+",Sucesso,
+210059527733,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059527733;
+",Sucesso,
+210058941499,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058941499;
+",Sucesso,
+210059959486,"
+SELECT 
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059959486;
+",Sucesso,
+210058573821,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058573821;
+",Sucesso,
+210059246977,"
+SELECT 
+    nu_inscricao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059246977;
+",Sucesso,
+210059589782,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059589782;
+",Sucesso,
+210058941500,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058941500;
+",Sucesso,
+210059959487,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059959487;
+",Sucesso,
+210059982325,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059982325;
+",Sucesso,
+210060440980,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210060440980;
+",Sucesso,
+210060373830,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210060373830;
+",Sucesso,
+210061103946,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210061103946;
+",Sucesso,
+210060214088,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060214088;
+",Sucesso,
+210059388093,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059388093;
+",Sucesso,
+210059980949,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059980949;
+",Sucesso,
+210058061540,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058061540;
+",Sucesso,
+210058387334,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210058387334;
+",Sucesso,
+210059085138,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059085138;
+",Sucesso,
+210061103947,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210061103947;
+",Sucesso,
+210059388094,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059388094;
+",Sucesso,
+210059246972,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059246972;
+",Sucesso,
+210061234981,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210061234981;
+",Sucesso,
+210061327761,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210061327761;
+",Sucesso,
+210059587846,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059587846;
+",Sucesso,
+210058941492,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058941492;
+",Sucesso,
+210059959482,"
+SELECT 
+    nu_inscricao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059959482;
+",Sucesso,
+210058573817,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058573817;
+",Sucesso,
+210061234982,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, 
+       nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210061234982;
+",Sucesso,
+210061337583,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, 
+       nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210061337583;
+",Sucesso,
+210059587847,"
+SELECT nu_inscricao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059587847;
+",Sucesso,
+210058941494,"
+SELECT no_municipio_esc, sg_uf_esc, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058941494;
+",Sucesso,
+210060373826,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060373826;
+",Sucesso,
+210058573818,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210058573818;
+",Sucesso,
+210059246974,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059246974;
+",Sucesso,
+210061234983,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210061234983;
+",Sucesso,
+210059587848,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059587848;
+",Sucesso,
+210058941496,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058941496;
+",Sucesso,
+210059959484,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059959484;
+",Sucesso,
+210060440977,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210060440977;
+",Sucesso,
+210060373827,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060373827;
+",Sucesso,
+210061234984,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, 
+       nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210061234984;
+",Sucesso,
+210059587849,"
+SELECT 
+    nu_inscricao, 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059587849;
+",Sucesso,
+210059959485,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059959485;
+",Sucesso,
+210059982323,"
+SELECT no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059982323;
+",Sucesso,
+210060373828,"
+SELECT 
+    nu_inscricao, 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060373828;
+",Sucesso,
+210059246976,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059246976;
+",Sucesso,
+210061234985,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210061234985;
+",Sucesso,
+210061337589,"
+SELECT nu_inscricao, nu_nota_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210061337589;
+",Sucesso,
+210059589781,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059589781;
+",Sucesso,
+210058061541,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058061541;
+",Sucesso,
+210059855124,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059855124;
+",Sucesso,
+210058387335,"
+SELECT nu_inscricao, nu_nota_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058387335;
+",Sucesso,
+210059085139,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059085139;
+",Sucesso,
+210060801603,"
+SELECT 
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210060801603;
+",Sucesso,
+210059527738,"
+SELECT 
+    nu_inscricao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059527738;
+",Sucesso,
+210059388095,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059388095;
+",Sucesso,
+210059980951,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059980951;
+",Sucesso,
+210058061542,"
+SELECT no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058061542;
+",Sucesso,
+210059855125,"
+SELECT 
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059855125;
+",Sucesso,

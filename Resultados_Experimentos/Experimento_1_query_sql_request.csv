@@ -1,0 +1,24 @@
+numero_inscricao,query,requisicao
+210061103945,"
+SELECT nu_nota_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210061103945;
+",Sucesso
+210060214087,"
+SELECT nu_nota_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210060214087;
+",Sucesso
+210059980948,"
+SELECT 
+    nu_nota_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059980948;
+",Sucesso

@@ -1,15 +1,108 @@
 campo nu_inscricao  tipo int é o número da inscrição do aluno; 
+ 
+campo nu_nota_comp1 tipo int Nota da competência 1 da prova de redação - Demonstrar domínio da modalidade escrita formal da Língua Portuguesa com uma escala de 0 a 200 pontos 
 
-campo nu_nota_cn é a Nota da prova de Ciências da Natureza com uma escala de 100 a 1.000 pontos;
+Para redação do enem entre 161 e 200 pontos na Nota da competência 1 o aluno demonstra excelente domínio da modalidade escrita formal da língua portuguesa e de escolha de registro. Desvios gramaticais ou de convenções da escrita serão aceitos somente como excepcionalidade e quando não caracterizarem reincidência
 
-campo nu_nota_ch é a Nota da prova de Ciências Humanas com uma escala de 100 a 1.000 pontos;
-                
-campo nu_nota_lc é a Nota da prova de Linguagens e Códigos com uma escala de 100 a 1.000 pontos 
-    Competência de área 1 nu_nota_lc - Aplicar as tecnologias da comunicação e da informação na escola, no trabalho e em outros contextos relevantes para sua vida.
-    Competência de área 2 nu_nota_lc - Conhecer e usar língua(s) estrangeira(s) moderna(s) como instrumento de acesso a informações e a outras culturas e grupos sociais*.
-    Competência de área 3 nu_nota_lc - Compreender e usar a linguagem corporal como relevante para a própria vida, integradora social e formadora da identidade.
-                
-campo nu_nota_mt é a Nota da Nota da prova de Matemática com uma escala de 100 a 1.000 pontos 
-    Competência de área 1 nu_nota_mt - Construir significados para os números naturais, inteiros, racionais e reais.
-    Competência de área 2 nu_nota_mt - Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela
-    Competência de área 3 - Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano;
+Para redação do enem entre 121 e 160 pontos na Nota da competência 1 o aluno demonstra bom domínio da modalidade escrita formal da língua portuguesa e de escolha de registro, com poucos desvios gramaticais e de convenções da escrita 
+
+Para redação do enem entre 81 e 120 pontos na Nota da competência 1 o aluno demonstra domínio mediano da modalidade escrita formal da língua portuguesa e de escolha de registro, com alguns desvios gramaticais e de convenções da escrita
+
+Para redação do enem entre 41 e 80 pontos na Nota da competência 1 o aluno demonstra demonstra domínio insuficiente da modalidade escrita formal da língua portuguesa, com muitos desvios gramaticais, de escolha de registro e de convenções da escrita
+
+Para redação do enem entre 1 e 40 pontos na Nota da competência 1 o aluno demonstra domínio precário da modalidade escrita formal da língua portuguesa, de forma sistemática, com diversificados e frequentes desvios gramaticais, de escolha de registro e de convenções da escrita
+
+0 ponto Demonstra desconhecimento da modalidade escrita formal da língua portuguesa
+
+;
+
+campo nu_nota_comp2 tipo int Nota da competência 2 da prova de redação - Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema, dentro dos limites estruturais do texto dissertativo-argumentativo em prosa com uma escala de 0 a 200 pontos
+
+Para redação do enem entre 161 e 200 pontos na Nota da competência 2 o aluno demonstra desenvolver o tema por meio de argumentação consistente, a partir de um repertório sociocultural produtivo, e apresenta excelente domínio do texto dissertativo-argumentativo
+
+Para redação do enem entre 121 e 160 pontos na Nota da competência 2 o aluno desenvolve o tema por meio de argumentação consistente e apresenta bom domínio do texto dissertativo-argumentativo, com proposição, argumentação e conclusão
+
+Para redação do enem entre 81 e 120 pontos na Nota da competência 2 o aluno desenvolve o tema por meio de argumentação previsível e apresenta domínio mediano do texto dissertativo-argumentativo, com proposição, argumentação e conclusão
+
+Para redação do enem entre 41 e 80 pontos na Nota da competência 2 o aluno desenvolve o tema recorrendo à cópia de trechos dos textos motivadores ou apresenta domínio insuficiente do texto dissertativo-argumentativo, não atendendo à estrutura com proposição, argumentação e conclusão
+
+Para redação do enem entre 1 e 40 pontos na Nota da competência 2 o aluno apresenta o assunto, tangenciando o tema, ou demonstra domínio precário do texto dissertativo-argumentativo, com traços constantes de outros tipos textuais.
+
+0 ponto na Nota da competência 2 o aluno demonstrou fuga ao tema/não atendimento à estrutura dissertativo-argumentativa. Nestes casos a redação recebe nota zero e é anulada.
+
+;
+
+campo nu_nota_comp3 tipo int Nota da competência 3 da prova de redação - Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista com uma escala de 0 a 200 pontos
+
+Para redação do enem entre 161 e 200 pontos na Nota da competência 3 o aluno apresenta informações, fatos e opiniões relacionados ao tema proposto, de forma consistente e organizada, configurando autoria, em defesa de um ponto de vista
+
+Para redação do enem entre 121 e 160 pontos na Nota da competência 3 o aluno apresenta informações, fatos e opiniões relacionados ao tema, de forma organizada, com indícios de autoria, em defesa de um ponto de vista
+
+Para redação do enem entre 81 e 120 pontos na Nota da competência 3 o aluno apresenta informações, fatos e opiniões relacionados ao tema, limitados aos argumentos dos textos motivadores e pouco organizados, em defesa de um ponto de vista
+
+Para redação do enem entre 41 e 80 pontos na Nota da competência 3 o aluno apresenta informações, fatos e opiniões relacionados ao tema, mas desorganizados ou contraditórios e limitados aos argumentos dos textos motivadores, em defesa de um ponto de vista
+
+Para redação do enem entre 1 e 40 pontos na Nota da competência 3 o aluno apresenta informações, fatos e opiniões pouco relacionados ao tema ou
+incoerentes e sem defesa de um ponto de vista
+
+0 ponto na Nota da competência 3 o aluno apresenta informações, fatos e opiniões não relacionados ao tema e sem defesa de um ponto de vista.
+
+;
+
+campo nu_nota_comp4 tipo int Nota da competência 4 da prova de redação - Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação com uma escala de 0 a 200 pontos
+
+Para redação do enem entre 161 e 200 pontos na Nota da competência 4 o aluno articula bem as partes do texto e apresenta repertório diversificado de recursos coesivos.
+Para redação do enem entre 121 e 160 pontos na Nota da competência 4 o aluno articula as partes do texto, com poucas inadequações, e apresenta repertório diversificado de recursos coesivos.
+Para redação do enem entre 81 e 120 pontos na Nota da competência 4 o aluno articula as partes do texto, de forma mediana, com inadequações, e apresenta repertório pouco diversificado de recursos coesivos.
+Para redação do enem entre 41 e 80 pontos na Nota da competência 4 o aluno articula as partes do texto, de forma insuficiente, com muitas inadequações, e apresenta repertório limitado de recursos coesivos.
+Para redação do enem entre 1 e 40 pontos na Nota da competência 4 o aluno articula as partes do texto de forma precária.
+0 ponto  Nota da competência 4 o aluno não articula as informações.
+
+;
+
+campo nu_nota_comp5 tipo int Nota da competência 5 da prova de redação - Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos com uma escala de 0 a 200 pontos
+
+Para redação do enem entre 161 e 200 pontos na Nota da competência 5 o aluno elabora muito bem proposta de intervenção, detalhada, relacionada ao tema e articulada à discussão desenvolvida no texto.
+Para redação do enem entre 121 e 160 pontos na Nota da competência 5 o aluno Elabora bem proposta de intervenção relacionada ao tema e articulada à discussão desenvolvida no texto.
+Para redação do enem entre 81 e 120 pontos na Nota da competência 5 o aluno  Elabora, de forma mediana, proposta de intervenção relacionada ao tema e articulada à discussão desenvolvida no texto.
+Para redação do enem entre 41 e 80 pontos na Nota da competência 5 o aluno elabora, de forma insuficiente, proposta de intervenção relacionada ao tema, ou não articulada com a discussão desenvolvida no texto.
+Para redação do enem entre 1 e 40 pontos na Nota da competência 5 o aluno apresenta proposta de intervenção vaga, precária ou relacionada apenas ao assunto.
+0 ponto  na Nota da competência 5 o aluno Não apresenta proposta de intervenção ou apresenta proposta não relacionada ao tema ou ao assunto.
+
+
+;
+
+campo nu_nota_redacao tipo int Nota final da prova de redação é a somatória do campo nu_nota_comp1 nu_nota_comp2 nu_nota_comp3 nu_nota_comp4 nu_nota_comp5 
+
+;
+
+campo Q006	Qual é a renda mensal de sua família? (Some a sua renda com a dos seus familiares.)	
+A	Nenhuma Renda
+B	Até R$ 1.320,00
+C	De R$ 1.320,01 até R$ 1.980,00.
+D	De R$ 1.980,01 até R$ 2.640,00.
+E	De R$ 2.640,01 até R$ 3.300,00.
+F	De R$ 3.300,01 até R$ 3.960,00.
+G	De R$ 3.960,01 até R$ 5.280,00.
+H	De R$ 5.280,01 até R$ 6.600,00.
+I	De R$ 6.600,01 até R$ 7.920,00.
+J	De R$ 7.920,01 até R$ 9240,00.
+K	De R$ 9.240,01 até R$ 10.560,00.
+L	De R$ 10.560,01 até R$ 11.880,00.
+M	De R$ 11.880,01 até R$ 13.200,00.
+N	De R$ 13.200,01 até R$ 15.840,00.
+O	De R$ 15.840,01 até R$19.800,00.
+P	De R$ 19.800,01 até R$ 26.400,00.
+Q	Acima de R$ 26.400,00.
+
+;
+
+Exemplo de Redação Nota 1000 abaixo:
+  Na obra intitulada “Brasil, País do Futuro”, Stefan Zweig, autor austríaco, em sua visita ao Brasil, defendeu a ideia de que o país estava destinado a ser um dos mais importantes países do mundo no futuro. No entanto, 80 anos depois, as previsões do autor ainda não se concretizaram e os desafios para enfrentar a invisibilidade do trabalho de cuidado — realizado por mulheres — são entraves para
+isso. Observa-se, assim, que isso ocorre porque a negligência governamental e a permanência histórica impedem a resolução da questão.
+  Sob este viés, é preciso atentar para a omissão estatal presente nessa problemática. Nessaperspectiva, o pensador Thomas Hobbes afirma que o Estado é responsável por garantir o bem-estar da população. Entretanto, isso não ocorre no Brasil, pois a falta de atuação das autoridades corrobora a permanência do trabalho de cuidado não remunerado e mal pago realizado, principalmente, por mulheres — que inclui cuidar de crianças e idosos, bem como os afazeres domésticos —, visto que o Governo não tem cumprido seu papel no sentido de assegurar os direitos básicos a esse grupo social, como o direito a um salário digno. Assim, as funções sociais e estatais são descumpridas, agravando o problema. 
+  Outrossim, a permanência histórica é fator importante como constituinte desse imbróglio. Nesse sentido, consoante ao pensamento do antropólogo Claude Lévi-Strauss, só é possível compreender adequadamente as ações coletivas por meio do entendimento dos eventos históricos. Desse modo, a questão da invisibilidade do trabalho de cuidado feito por mulheres majoritariamente pobres e vítimas de discriminação de gênero, mesmo que fortemente presente no século XXI, apresenta raízes indissociáveis à história brasileira — que foi marcada pelo machismo e pelo patriarcado —, uma vez que as atividades domésticas não pagas ainda são delegadas às pessoas do sexo feminino de forma quase que exclusiva.
+  Faz-se necessário, portanto, que meios sejam criados para intervir nesse óbice. Logo, o Governo Federal — órgão responsável pela administração federal em todo território nacional — deve estabelecer políticas públicas que garantam a remuneração e a valorização do trabalho de cuidado, por meio da utilização de verbas governamentais para o pagamento de salários. Tal ação deve ser realizada com a finalidade de mitigar a invisibilidade dos afazeres domésticos realizados pela mulher na sociedade brasileira e, consequentemente, combater as raízes históricas presentes nessa questão. Dessarte, o Brasil poderá se tornar um “País do Futuro”, como defendido por Stefan Zweig
+
+
+

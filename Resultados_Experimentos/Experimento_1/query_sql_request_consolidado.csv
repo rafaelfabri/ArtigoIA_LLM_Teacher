@@ -1,0 +1,1125 @@
+numero_inscricao,query,requisicao
+210061103945,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210061103945;
+",Sucesso
+210060214087,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210060214087;
+",Sucesso
+210059980948,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059980948;
+",Sucesso
+210060801601,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060801601;
+",Sucesso
+210059085130,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059085130;
+",Sucesso
+210060801595,"
+SELECT 
+    nu_inscricao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060801595;
+",Sucesso
+210060214081,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210060214081;
+",Sucesso
+210059388087,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059388087;
+",Sucesso
+210059980942,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059980942;
+",Sucesso
+210058061534,"
+SELECT nu_inscricao, 
+       tp_status_redacao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058061534;
+",Sucesso
+210059855117,"
+SELECT nu_inscricao, nu_nota_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059855117;
+",Sucesso
+210058387328,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210058387328;
+",Sucesso
+210060801596,"
+SELECT 
+    nu_inscricao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210060801596;
+",Sucesso
+210061103941,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210061103941;
+",Sucesso
+210059388088,"
+SELECT nu_inscricao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059388088;
+",Sucesso
+210059980943,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059980943;
+",Sucesso
+210058061535,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210058061535;
+",Sucesso
+210058387329,"
+SELECT 
+    nu_inscricao, 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210058387329;
+",Sucesso
+210059085132,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, 
+       nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059085132;
+",Sucesso
+210059527731,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059527731;
+",Sucesso
+210060214083,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210060214083;
+",Sucesso
+210058061536,"
+SELECT 
+    nu_inscricao, 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210058061536;
+",Sucesso
+210061103943,"
+SELECT 
+    nu_inscricao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210061103943;
+",Sucesso
+210059980946,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059980946;
+",Sucesso
+210059855121,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059855121;
+",Sucesso
+210059085135,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059085135;
+",Sucesso
+210059527734,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059527734;
+",Sucesso
+210061103944,"
+SELECT nu_inscricao, 
+       tp_status_redacao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210061103944;
+",Sucesso
+210060214086,"
+SELECT nu_inscricao, nu_nota_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210060214086;
+",Sucesso
+210059388092,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059388092;
+",Sucesso
+210059980947,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059980947;
+",Sucesso
+210059855119,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059855119;
+",Sucesso
+210058387330,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058387330;
+",Sucesso
+210059085133,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059085133;
+",Sucesso
+210061103942,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210061103942;
+",Sucesso
+210059388090,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059388090;
+",Sucesso
+210059980945,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059980945;
+",Sucesso
+210058061537,"
+SELECT nu_inscricao, 
+       tp_status_redacao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058061537;
+",Sucesso
+210058387331,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210058387331;
+",Sucesso
+210059085134,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059085134;
+",Sucesso
+210060801599,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060801599;
+",Sucesso
+210059527733,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059527733;
+",Sucesso
+210058941499,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058941499;
+",Sucesso
+210059959486,"
+SELECT 
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059959486;
+",Sucesso
+210058573821,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058573821;
+",Sucesso
+210059246977,"
+SELECT 
+    nu_inscricao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059246977;
+",Sucesso
+210059589782,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059589782;
+",Sucesso
+210058941500,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058941500;
+",Sucesso
+210059959487,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059959487;
+",Sucesso
+210059982325,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059982325;
+",Sucesso
+210060440980,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210060440980;
+",Sucesso
+210060373830,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210060373830;
+",Sucesso
+210061103946,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210061103946;
+",Sucesso
+210060214088,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060214088;
+",Sucesso
+210059388093,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059388093;
+",Sucesso
+210059980949,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059980949;
+",Sucesso
+210058061540,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058061540;
+",Sucesso
+210058387334,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210058387334;
+",Sucesso
+210059085138,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059085138;
+",Sucesso
+210061103947,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210061103947;
+",Sucesso
+210059388094,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059388094;
+",Sucesso
+210059246972,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059246972;
+",Sucesso
+210061234981,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210061234981;
+",Sucesso
+210061327761,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210061327761;
+",Sucesso
+210059587846,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059587846;
+",Sucesso
+210058941492,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058941492;
+",Sucesso
+210059959482,"
+SELECT 
+    nu_inscricao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059959482;
+",Sucesso
+210058573817,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210058573817;
+",Sucesso
+210061234982,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, 
+       nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210061234982;
+",Sucesso
+210061337583,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, 
+       nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210061337583;
+",Sucesso
+210059587847,"
+SELECT nu_inscricao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059587847;
+",Sucesso
+210058941494,"
+SELECT no_municipio_esc, sg_uf_esc, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058941494;
+",Sucesso
+210060373826,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060373826;
+",Sucesso
+210058573818,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210058573818;
+",Sucesso
+210059246974,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059246974;
+",Sucesso
+210061234983,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210061234983;
+",Sucesso
+210059587848,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059587848;
+",Sucesso
+210058941496,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058941496;
+",Sucesso
+210059959484,"
+SELECT nu_inscricao, 
+       nu_nota_comp1, 
+       nu_nota_comp2, 
+       nu_nota_comp3, 
+       nu_nota_comp4, 
+       nu_nota_comp5, 
+       nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059959484;
+",Sucesso
+210060440977,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210060440977;
+",Sucesso
+210060373827,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060373827;
+",Sucesso
+210061234984,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, 
+       nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, 
+       nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210061234984;
+",Sucesso
+210059587849,"
+SELECT 
+    nu_inscricao, 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059587849;
+",Sucesso
+210059959485,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059959485;
+",Sucesso
+210059982323,"
+SELECT no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210059982323;
+",Sucesso
+210060373828,"
+SELECT 
+    nu_inscricao, 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210060373828;
+",Sucesso
+210059246976,"
+SELECT 
+    no_municipio_esc,
+    sg_uf_esc,
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059246976;
+",Sucesso
+210061234985,"
+SELECT nu_inscricao, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210061234985;
+",Sucesso
+210061337589,"
+SELECT nu_inscricao, nu_nota_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210061337589;
+",Sucesso
+210059589781,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059589781;
+",Sucesso
+210058061541,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058061541;
+",Sucesso
+210059855124,"
+SELECT nu_inscricao, no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao 
+FROM db.enem.base_enem 
+WHERE nu_inscricao = 210059855124;
+",Sucesso
+210058387335,"
+SELECT nu_inscricao, nu_nota_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058387335;
+",Sucesso
+210059085139,"
+SELECT 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059085139;
+",Sucesso
+210060801603,"
+SELECT 
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210060801603;
+",Sucesso
+210059527738,"
+SELECT 
+    nu_inscricao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao 
+FROM 
+    db.enem.base_enem 
+WHERE 
+    nu_inscricao = 210059527738;
+",Sucesso
+210059388095,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059388095;
+",Sucesso
+210059980951,"
+SELECT 
+    no_municipio_esc, 
+    sg_uf_esc, 
+    nu_inscricao, 
+    tp_status_redacao, 
+    nu_nota_comp1, 
+    nu_nota_comp2, 
+    nu_nota_comp3, 
+    nu_nota_comp4, 
+    nu_nota_comp5, 
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059980951;
+",Sucesso
+210058061542,"
+SELECT no_municipio_esc, sg_uf_esc, tp_status_redacao, nu_nota_comp1, nu_nota_comp2, nu_nota_comp3, nu_nota_comp4, nu_nota_comp5, nu_nota_redacao
+FROM db.enem.base_enem
+WHERE nu_inscricao = 210058061542;
+",Sucesso
+210059855125,"
+SELECT 
+    nu_inscricao,
+    tp_status_redacao,
+    nu_nota_comp1,
+    nu_nota_comp2,
+    nu_nota_comp3,
+    nu_nota_comp4,
+    nu_nota_comp5,
+    nu_nota_redacao
+FROM 
+    db.enem.base_enem
+WHERE 
+    nu_inscricao = 210059855125;
+",Sucesso
